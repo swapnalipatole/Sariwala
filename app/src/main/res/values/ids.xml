@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nameInput" type="id" />
+    <item name="emailInput" type="id" />
+    <item name="phoneInput" type="id" />
+    <item name="passwordInput" type="id" />
+    <item name="regBtn" type="id" />
+</resources>

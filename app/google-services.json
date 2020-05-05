@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "154374433251",
+    "firebase_url": "https://sariwala-7ff0e.firebaseio.com",
+    "project_id": "sariwala-7ff0e",
+    "storage_bucket": "sariwala-7ff0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154374433251:android:7a000f8a9616ca8c7d18d6",
+        "android_client_info": {
+          "package_name": "com.example.sariwala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154374433251-hu6qi7jroilamljouqroq2b5ude395p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sariwala",
+            "certificate_hash": "9d43fa4b31bdf345224ea5e00ddb3ae0cb816b9b"
+          }
+        },
+        {
+          "client_id": "154374433251-miq2ttlqr0g233rl5oeou9idrd5fpoto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhXA2jBOtGEnlQivTSdiGgwzb6gRiovso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154374433251-miq2ttlqr0g233rl5oeou9idrd5fpoto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
